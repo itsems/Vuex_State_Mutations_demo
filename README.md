@@ -1,4 +1,4 @@
-# project
+# Vuex - State、Mutations Demo
 
 ## Project setup
 ```

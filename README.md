@@ -1,6 +1,8 @@
 # Vuex - State、Mutations Demo
 
-[Mdeium notes]()
+## Medium Doc
+
+[[Vue] Vuex 是什麼? 怎麼用? — State、Mutations (1/5)](https://medium.com/itsems-frontend/vue-vuex1-state-mutations-364163b3acac)
 
 ## Project setup
 ```
@@ -16,11 +18,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
